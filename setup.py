@@ -8,12 +8,9 @@ setup(
   author = 'umanochiocciola',
   author_email = 'HALLO',
   url = 'https://github.com/umanochiocciola/encription69',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/umanochiocciola/encription69/archive/1.0.tar.gz',
   keywords = ['encription', 'joke', '69', 'bruh'],
-  install_requires=[            # I get to this in a second
-          'validators',
-          'beautifulsoup4',
-      ],
+  install_requires=[],
   classifiers=[
     'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers',
